@@ -1,0 +1,175 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,100,900,700);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
+@import url(https://fonts.googleapis.com/css?family=Fredoka+One);
+
+h1 {
+  font-size: 100px;
+  font-weight: bolder;
+  font-family: monospace;
+  color: yellow;
+  background-color: orange;
+}
+
+#para1 {
+  margin-left: 25px;
+  float: right;
+  font-family: "Raleway",fantasy;
+  color: pink;
+  background-color: yellow;
+  font-weight: 900;
+}
+
+#para2 {
+  position: bottom;
+  width: 40%;
+  padding: 7px;
+  margin: 10px;
+  box-sizing: border-box;
+  float: left;
+  background-color: gray;
+  color: blue;
+  font-family: "Indie Flower",serif;
+  float: left;
+  font-size: 43px;
+}
+
+#para3 {
+  background-color: #639261;
+  float: right;
+}
+
+#para4 {
+  background-color: #817350;
+  color: #623729;
+  font-size: 33px;
+}
+
+section {
+  width: 75%;
+  background-color: #419273;
+  font-size: 55px;
+  color: #990284;
+}
+
+h2 {
+  font-family: "Dancing Script",cursive;
+  font-weight: 700;
+  color: #187293;
+  background-color: #345678;
+  width: 25%;
+  margin-left: black,auto;
+  font-size: 88px;
+}
+
+h3 {
+  font-family: cursive;
+  font-weight: 500;
+  color: #835627;
+  background-color: #153627;
+  width: 25%;
+  margin-left: black,auto;
+  font-size: 88px;
+}
+
+#para5 {
+  background-color: #666666;
+  color: #524562;
+  font-family: monospace;
+}
+
+#para8 {
+  background-color: #782936;
+  float: right;
+  font-family: "Indie Flower",cursive;
+  font-size: 75px;
+  margin: 33%;
+  padding-top: 10px;
+
+}
+
+h4 {
+  color: #178364;
+  font-size: 12px;
+  font-family: "Rock Salt", fantasy;
+  background-color: white;
+}
+
+h5 {
+  color: #894939;
+  background-color: #111111;
+  margin: 60%;
+  padding: inherit;
+  font-family: "Rock Salt", fantasy;
+  float: left;
+}
+
+em {
+  font-family: "Rock Salt", fantasy;
+  font-weight: bolder;
+  font-size: 20px;
+  color: red;
+  background-color: white;
+}
+
+strong {
+  font-family: "Amatic SC", serif;
+  font-weight: bolder;
+  font-size: 30px;
+  color: red;
+
+}
+
+#para9 {
+  background-color: #334964;
+  font-size: 15px;
+  color: yellow;
+  float: right;
+  margin: 50%;
+}
+
+#para10 {
+  background-color: #845627;
+  font-size: 15px;
+  color: #479273;
+  float: left;
+  margin: 50%;
+  font-family: "Fredoka One", cursive;
+}
+
+#para11 {
+  margin: 40%;
+  font-size: 30px;
+  color: #857382;
+  font-family: "Raleway", fantasy;
+  background-color: white;
+}
+
+#para12 {
+  font-family: "Dancing Script",cursive;
+  font-weight: 700;
+  color: #187293;
+  background-color: #345678;
+  width: 25%;
+  margin-left: black,auto;
+  font-size: 60px;
+}
+
+#para13 {
+  font-size: 100px;
+  font-weight: bolder;
+  font-family: monospace;
+  color: yellow;
+  background-color: orange;
+}
+
+footer {
+  color: #427947;
+  background-color: #583972;
+  margin: 25%;
+  padding: inherit;
+  font-family: "Rock Salt", fantasy;
+  float: left;
+}
